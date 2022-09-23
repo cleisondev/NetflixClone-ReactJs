@@ -4,7 +4,7 @@
 <li>CSS</li>
 <li>Javascript</li>
 <li>ReactJs</li>
-<li>API Tmdb</li>
+<li>API TMDB</li>
 </ul>
 <br>
 

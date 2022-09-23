@@ -8,6 +8,8 @@
 </ul>
 <br>
 
+![neyflixclone](https://user-images.githubusercontent.com/101435336/191876671-cc136a47-a5f6-4eef-9b45-afab0c082e75.gif)
+
 ## Scripts Disponíveis
 
 No diretório do projeto, você pode executar:

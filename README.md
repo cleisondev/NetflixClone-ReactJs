@@ -14,6 +14,8 @@
 
 No diretório do projeto, você pode executar:
 
+### `npm install`
+
 ### `npm start`
 
 Executa o aplicativo no modo de desenvolvimento.\
